@@ -1,5 +1,5 @@
 # profil
-# 👾 arizig — 👨‍💻 Développeur logiciel passionné par la création de solutions techniques simples et 
+# 👾 arizig — 👨‍💻 I love turning ideas into working applications that make a real difference , Always learning, I believe that every line of code holds a new opportunity for creativity. 
 
 > _"Code is like humor. When you have to explain it, it’s bad.""_
 
