@@ -11,7 +11,7 @@ HTML, CSS, JavaScript, Git, Figma
 
 
 ## 🧪 Projet préféré
-[Modern Online Store: A web-based e-commerce application that allows users to browse products, add them to the cart, place orders, and manage their user accounts — featuring a responsive design and a smooth interface.)
+Modern Online Store: A web-based e-commerce application that allows users to browse products, add them to the cart, place orders, and manage their user accounts — featuring a responsive design and a smooth interface.
 
 ## 📬 Contact
 arizig13@gmail.com
