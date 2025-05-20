@@ -1,7 +1,7 @@
 # profil
 # 👾 arizig — 👨‍💻 Développeur logiciel passionné par la création de solutions techniques simples et 
 
-> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.""_
+> _"Code is like humor. When you have to explain it, it’s bad.""_
 
 ## 🧠 À propos
 🌍 Je crois que la programmation est un moyen de créer un impact réel dans le monde.
