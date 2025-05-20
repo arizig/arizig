@@ -4,7 +4,7 @@
 > _"Code is like humor. When you have to explain it, it’s bad.""_
 
 ## 🧠 À propos
-🌍 Je crois que la programmation est un moyen de créer un impact réel dans le monde.
+🌍 I believe that programming is a way to create a real impact in the world.
 
 ## 🔧 Technologies utilisées
 HTML, CSS, JavaScript, Git, Figma
